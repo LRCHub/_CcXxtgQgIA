@@ -1,0 +1,61 @@
+# ワンリパブリック – Invincible (from 怪獣８号)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.27] Round and round and round we go
+[00:03.53] Where we stop nobody knows
+[00:06.87] In the end we lose control
+[00:10.32] But right now we're invincible
+[00:25.32] 
+[00:13.46] Heard you were lost in a plastic dream
+[00:16.66] Bought every line from the TV screen
+[00:20.48] And now you don't even know what it means
+[00:23.77] They sold you lies, baby, oh no, no
+[00:41.27] 
+[00:26.97] That glitter don't shine like it did before
+[00:31.27] You never really find what you're searchin' for
+[00:34.27] In this life are we somethin' more?
+[00:37.82] Or are we just a number?
+[00:49.82] 
+[00:41.71] Round and round and round we go
+[00:44.86] Where we stop nobody knows
+[00:48.55] In the end we lose control
+[00:51.79] But right now we're invincible
+[00:54.46] Invincible
+[01:01.10] Invincible
+[01:07.63] Invincible
+[01:12.63] 
+[01:08.99] Please tell me what's the motivation
+[01:12.64] I think it's twistin' me out
+[01:15.78] Is there some higher revelation
+[01:19.46] To know what it's all about?
+[01:33.46] 
+[01:21.83] That glitter don't shine like it did before
+[01:25.77] You never really find what you're searchin' for
+[01:28.88] In this life are we somethin' more?
+[01:32.36] Or are we just a number?
+[01:44.36] 
+[01:36.36] Round and round and round we go
+[01:39.57] Where we stop nobody knows
+[01:43.25] In the end we lose control
+[01:46.36] But right now we're invincible
+[01:49.02] Invincible
+[01:55.99] Invincible
+[02:02.63] Invincible
+[02:07.63] 
+[02:03.55] Dancin' 'cause we buzzin'
+[02:04.94] We lovin' this don't know nothin'
+[02:06.68] Yeah, we on our way to try to get somethin'
+[02:08.33] That's somethin' so, yeah, we okay
+[02:10.62] Dancin' 'cause we buzzin'
+[02:11.64] We lovin' this don't know nothin'
+[02:13.40] But we tryin' to get a little bit of somethin'
+[02:15.28] Then we gonna go and live it on a replay
+[02:35.28] 
+[02:17.78] The glitter don't shine like it did before
+[02:22.12] And right now we're invincible
+[02:25.14] The glitter don't shine like it did before
+[02:28.82] And right now we're invincible
+[02:31.21] Invincible
+```
