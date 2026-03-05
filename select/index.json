@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Invincible (from 怪獣８号)",
+  "base_artist": "ワンリパブリック",
+  "createdAt": "2026-03-05T00:27:37.773931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Invincible (from \"One Piece Film: Red\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/01_I'm_Invincible_(from__One_Piece_Film__Red_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Invincible (from \"One Piece Film",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/02_I'm_Invincible_(from__One_Piece_Film_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Invincible (from \"One Piece Film: Red\")",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/03_I'm_Invincible_(from__One_Piece_Film__Red_)_Ado.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Invincible - from Kaiju No. 8",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/04_Invincible_-_from_Kaiju_No._8_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Invincible (from Kaiju No. 8)",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/05_Invincible_(from_Kaiju_No._8)_OneRepublic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Invincible (from 怪獣8号)",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/pl_01_Invincible_(from_怪獣8号)_OneRepublic.txt"
+    }
+  ]
+}
